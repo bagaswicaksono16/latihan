@@ -7,7 +7,7 @@
 body {
     margin: 0px;
     padding: 0px;
-    font-family: 'Open Sans',sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .wrapper {
@@ -62,7 +62,7 @@ nav ul li a {
 
 nav ul li a:hover {
     text-decoration: underline;
-} 
+}
 
 section {
     margin: auto;
@@ -139,7 +139,7 @@ p {
     flex-wrap: wrap;
 }
 
-.kartu-tutors{
+.kartu-tutors {
     width: 20%;
     margin: 0 auto;
 }
@@ -156,6 +156,7 @@ p {
     text-align: center;
     color: #345B63;
 }
+
 .partner-list {
     width: 100%;
     position: relative;
@@ -201,7 +202,7 @@ h3 {
     line-height: 50px;
 }
 
-#copyright  {
+#copyright {
     text-align: center;
     width: 100%;
     padding: 50px 0px 50px 0px;
