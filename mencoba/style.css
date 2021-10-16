@@ -127,6 +127,18 @@ p {
     padding: 10px 0px 10px 0px;
 }
 
+.kiri {
+    text-align: right;
+    width: 100%;
+    margin: auto;
+}
+
+.kanan {
+    text-align: left;
+    width: 100%;
+    margin: auto;
+}
+
 .tengah {
     text-align: center;
     width: 100%;
