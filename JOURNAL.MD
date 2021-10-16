@@ -2,3 +2,7 @@
 
 - install password manager
 - install git
+
+# 2021 Oktober 16
+
+- Belajar bootstrap
