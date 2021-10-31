@@ -14,3 +14,7 @@
 # 2021 Oktober 30
 
 - membuat web sapisaput
+
+# 2021 Oktober 31
+
+- Belajar membuat card
