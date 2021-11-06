@@ -18,3 +18,7 @@
 # 2021 Oktober 31
 
 - Belajar membuat card
+
+# 2021 November 6
+
+- Membuat Navbar
