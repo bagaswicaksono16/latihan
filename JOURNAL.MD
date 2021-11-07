@@ -22,3 +22,7 @@
 # 2021 November 6
 
 - Membuat Navbar
+
+# 2021 November 7
+
+- Memperbaiki web
